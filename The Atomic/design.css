@@ -1,0 +1,19 @@
+body {
+    background-color: #3b4d99;
+    font-size: 27px;
+    text-align: center;
+    margin-top: 0;
+}
+
+#bgHexCode {
+    font-family: Tahoma;
+    color: #fff;
+}
+
+#button {
+    margin-top: 14x;
+    border-radius: 9px;
+    font-size: 17px;
+    border-color: #8b3310;
+    border-width: 4px;
+}
